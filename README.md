@@ -16,7 +16,7 @@ Berikut beberapa contoh penggunaan **Caesar Cipher**:
 - Pesan Asli: "FREECODECAMP"
 - Pesan Terenkripsi dengan **ROT13**: "SERRPBRPQRCCN"
 
-Fungsi yang diimplementasikan dalam project ini akan mengambil pesan yang sudah dienkripsi dengan **ROT13** sebagai input dan mengembalikan pesan terdekripsi. Pastikan pesan dalam huruf kapital. Karakter selain huruf tidak akan diubah.  
+Pada project ini kamu akan mengimplementasikan sebaliknya, dimana kamu akan menerjemahkan pesan yang sudah dienkripsi dengan **ROT13** sebagai input lalu kamu akan mencetak makna/deskripsi sesungguhnya dari pesan tersebut.
 
 ## Coding dan Testing
 
