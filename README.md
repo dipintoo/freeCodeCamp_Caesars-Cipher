@@ -4,8 +4,7 @@
 
 # Caesar Cipher
 
-Proyek ini bertujuan untuk mengimplementasikan salah satu metode enkripsi paling sederhana yang dikenal sebagai **Caesar Cipher**. Dalam **Caesar Cipher**, makna huruf-huruf digeser sejumlah tertentu.
-Penggunaan umum modern dari **Caesar Cipher** ini adalah ROT13 cipher, di mana nilai-nilai huruf digeser sebanyak 13 tempat. Dengan demikian, A ↔ N, B ↔ O, dan seterusnya.
+Proyek ini bertujuan untuk mengimplementasikan salah satu metode enkripsi paling sederhana yang dikenal sebagai **Caesar Cipher**. Dalam **Caesar Cipher**, makna huruf-huruf digeser sejumlah tertentu. Penggunaan umum modern dari **Caesar Cipher** ini adalah **ROT13 cipher**, di mana nilai-nilai huruf digeser sebanyak 13 tempat. Dengan demikian, A menjadi N, B menjadi O, dan seterusnya.
 
 ## Bagaimana Caesar Cipher Bekerja
 
