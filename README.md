@@ -4,7 +4,7 @@
 
 ## Bagaimana Caesar Cipher Bekerja
 
-**Caesar Cipher** adalah salah satu metode enkripsi paling sederhana, dimana makna huruf-huruf dalam urutan alfabet digeser sejumlah tertentu. Penggunaan umum modern dari **Caesar Cipher** ini adalah **ROT13**, di mana huruf digeser sebanyak 13 tempat. Dengan demikian, A menjadi N, B menjadi O, dan seterusnya. Proses ini dapat diulangi untuk mendekripsi pesan yang telah dienkripsi.
+**Caesar Cipher** adalah salah satu metode enkripsi paling sederhana, dimana makna huruf-huruf dalam urutan alfabet digeser sejumlah tertentu. Penggunaan umum modern dari **Caesar Cipher** ini adalah **ROT13**, di mana huruf digeser sebanyak 13 tempat. Dengan demikian, A menjadi N, B menjadi O, dan seterusnya.
 
 ## Contoh
 
